@@ -17,7 +17,7 @@ eps = 1e-4
 coef_reg = 1e-5
 
 learning_rate = 5e-3
-npoch = 1000# 5000
+npoch = 3000# 5000
 batch_size = 128
 
 N_x = 10
