@@ -1,6 +1,6 @@
 import numpy as np
 import numpy.matlib
-import matplotlib.pyplot as plt # For plotting
+import matplotlib.pyplot as plt
 from math import sqrt
 import time
 import single_test
